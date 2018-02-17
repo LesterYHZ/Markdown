@@ -18,7 +18,7 @@ Heading
 
 List
 ===
-### Disordered
+### Unordered
 - list1
 	- list1.1
 		- list 1.1.1
